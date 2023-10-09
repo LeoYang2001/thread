@@ -15,7 +15,11 @@ export const sidebarLinks = [
       route: "/create-thread",
       label: "Create Thread - updated",
     },
-    
+    {
+      imgURL: "/assets/create.svg",
+      route: "/profile",
+      label: "Profile - updated",
+    },
     
   ];
   
