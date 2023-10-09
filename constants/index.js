@@ -2,7 +2,7 @@ export const sidebarLinks = [
     {
       imgURL: "/assets/home.svg",
       route: "/",
-      label: "Home",
+      label: "Home - updated",
     },
     {
       imgURL: "/assets/search.svg",
@@ -13,14 +13,14 @@ export const sidebarLinks = [
     {
       imgURL: "/assets/create.svg",
       route: "/create-thread",
-      label: "Create Thread",
+      label: "Create Thread - updated",
+    },
+    {
+      imgURL: "/assets/create.svg",
+      route: "/profile",
+      label: "Profile - updated",
     },
     
-    {
-      imgURL: "/assets/user.svg",
-      route: "/profile",
-      label: "Profile",
-    },
   ];
   
   export const profileTabs = [
